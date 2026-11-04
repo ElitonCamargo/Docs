@@ -5,14 +5,6 @@
 **Quantidade de questões:** 10  
 **Valor sugerido:** 10 pontos
 
----
-
-## Identificação do aluno
-
-- **Nome:** ______________________________________________
-- **Turma:** __________________
-- **Data:** ____/____/________
-
 ## Orientações
 
 Leia atentamente cada questão e responda utilizando suas próprias palavras.
